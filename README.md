@@ -1,2 +1,2 @@
-# my-first-git1
-sample test of a git
+hello world
+Life is beautiful
